@@ -1,0 +1,8 @@
+
+}squid:S1450"ZRemove the "noNotesView" field and declare it as a local variable in the relevant methods.(φΑΎ―ϋÿÿÿÿ8Μέχάτ,
+tsquid:S1450"QRemove the "db" field and declare it as a local variable in the relevant methods.(Ξ”‚θώÿÿÿÿ8Μέχάτ,
+~squid:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(Ώα© ύÿÿÿÿ8Μέχάτ,
+usquid:S1450"WRemove the "mAdapter" field and declare it as a local variable in the relevant methods.(ε³8Μέχάτ,
+Xsquid:S1068"5Remove this unused "coordinatorLayout" private field.(†ÒΣϊÿÿÿÿ8Μέχάτ,
+squid:S1186G"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Κ³τδ8Μέχάτ,
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(δ©ΐΩϋÿÿÿÿ8Μέχάτ,

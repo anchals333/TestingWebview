@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testing Webview</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_back">back</string>
+    <string name="title_forward">forward</string>
+    <string name="title_bookmark">bookmark</string>
+    <string name="no_bookmark">No bookmarks found</string>
+    <string name="search_hint">Search or type web address</string>
+    <string name="go">GO</string>
+</resources>

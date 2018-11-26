@@ -1,0 +1,6 @@
+
+Š"squid:ClassVariableVisibilityCheck"PMake note a static final constant or non-public and provide accessors if needed.(¡éÑÖüÿÿÿÿ8¡€ÙÛô,
+Msquid:S00108P")Either remove or fill this block of code.(âÃƒŠıÿÿÿÿ8ã‚ßÛô,
+Hsquid:S1068"+Remove this unused "context" private field.(êİç8ã‚ßÛô,
+‰"squid:ClassVariableVisibilityCheck"OMake dot a static final constant or non-public and provide accessors if needed.(¤ı˜„øÿÿÿÿ8ã‚ßÛô,
+Š"squid:ClassVariableVisibilityCheck"UMake timestamp a static final constant or non-public and provide accessors if needed.(”ûÓî8ã‚ßÛô,
